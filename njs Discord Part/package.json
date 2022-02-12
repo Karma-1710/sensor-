@@ -1,0 +1,32 @@
+{
+  "name": "tutorials",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "canvas": "^2.9.0",
+    "discord-logs": "^2.0.1",
+    "discord.js": "^13.0.0-dev.2675b08.1627603447",
+    "discord.js-commando": "^0.12.3",
+    "glob": "^7.1.7",
+    "moment": "^2.29.1",
+    "mongoose": "^5.13.6",
+    "nodemon": "^2.0.12",
+    "reconlx": "^2.4.3",
+    "relevant-urban": "^2.0.0"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fire-Development/discord.js-tutorials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fire-Development/discord.js-tutorials/issues"
+  },
+  "homepage": "https://github.com/Fire-Development/discord.js-tutorials#readme",
+  "description": ""
+}
